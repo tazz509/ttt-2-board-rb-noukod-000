@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = row
+board = "row"
 row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 # Position 1: top Left
