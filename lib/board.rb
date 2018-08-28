@@ -1,4 +1,5 @@
 # Define the variable board below.
+board = row
 row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 # Position 1: top Left
