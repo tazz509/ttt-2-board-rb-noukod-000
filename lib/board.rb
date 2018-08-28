@@ -2,10 +2,10 @@
 row = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 # Position 1: top Left
-row[0]  
+row[0]
 
 # Position 2: top Middle
-row[1] 
+row[1]
 
 # Position 3: top Right
 row[2]
